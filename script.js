@@ -62,9 +62,8 @@ function deleteSelectedTodos() {
     renderTodoList();
 }
 
-// hi
 // Add event listener to the add todo button
 addTodoBtn.addEventListener('click', addTodoItem);
 
 // Initialize the todo list
-renderTodoList();
+renderTodoList;
